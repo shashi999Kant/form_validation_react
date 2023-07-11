@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form_validation_react/static/css/main.275eca3b.css",
+    "main.js": "/form_validation_react/static/js/main.b38f57af.js",
+    "static/js/787.41a206eb.chunk.js": "/form_validation_react/static/js/787.41a206eb.chunk.js",
+    "index.html": "/form_validation_react/index.html",
+    "main.275eca3b.css.map": "/form_validation_react/static/css/main.275eca3b.css.map",
+    "main.b38f57af.js.map": "/form_validation_react/static/js/main.b38f57af.js.map",
+    "787.41a206eb.chunk.js.map": "/form_validation_react/static/js/787.41a206eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.275eca3b.css",
+    "static/js/main.b38f57af.js"
+  ]
+}
